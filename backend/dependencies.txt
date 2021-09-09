@@ -1,0 +1,6 @@
+pip install Django
+pip install django-cors-headers
+pip install djangorestframework
+pip install djangorestframework-simplejwt
+pip install pillow
+pip install django-dotenv

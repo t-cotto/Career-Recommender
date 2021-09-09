@@ -1,0 +1,18 @@
+/* Constants for use in the user personality reducer*/
+export const USER_PERSONALITY_REQUEST = 'USER_PERSONALITY_REQUEST';
+export const USER_PERSONALITY_SUCCESS = 'USER_PERSONALITY_SUCCESS';
+export const USER_PERSONALITY_FAIL = 'USER_PERSONALITY_FAIL';
+export const UPDATE_CURRENT_USER = 'UPDATE_CURRENT_USER';
+/* Constants for user in the user registration reducer*/
+export const USER_REGISTER_REQUEST = 'USER_REGISTER_REQUEST';
+export const USER_REGISTER_SUCCESS = 'USER_REGISTER_SUCCESS';
+export const USER_REGISTER_FAIL = 'USER_REGISTER_FAIL';
+export const USER_REGISTER_RESET = 'USER_REGISTER_RESET';
+
+/* Constants for user in the logged in user reducer*/
+export const USER_LOGIN_REQUEST = 'USER_LOGIN_REQUEST';
+export const USER_LOGIN_SUCCESS = 'USER_LOGIN_SUCCESS';
+export const USER_UPDATE_PERSONALITY_TYPE = 'USER_UPDATE_PERSONALITY_TYPE';
+export const USER_LOGIN_FAIL = 'USER_LOGIN_FAIL';
+export const UPDATE_USER_PERSONALITY_TYPE = 'UPDATE_USER_PERSONALITY_TYPE';
+export const USER_LOGOUT = 'USER_LOGOUT';
